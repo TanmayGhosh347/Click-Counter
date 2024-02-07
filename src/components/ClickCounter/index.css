@@ -1,0 +1,35 @@
+/* Write your CSS here */
+
+.container {
+  height: 100vh;
+  width: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  font-size: 26px;
+  font-family: 'Roboto';
+}
+.number {
+  color: #c20a72;
+}
+.heading {
+  color: #2d3a35;
+}
+.description {
+  color: #2d3a35;
+}
+.btn {
+  background-color: #007bff;
+  color: #ffffff;
+  border: 0px;
+  height: 30px;
+  cursor: pointer;
+  outline: none;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+}
